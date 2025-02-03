@@ -13,8 +13,8 @@ Although it is a simple model, it demonstrates fundamental **Machine Learning** 
 - Scikit-Learn  
 - Matplotlib
 
-![Matplotlib Graphics](salaryTrain.png)
-![Matplotlib Graphics](salaryTrain.png)
+![Matplotlib Graphics](salaryTrain_plot.png)
+![Matplotlib Graphics](salaryTrain_plot.png)
 
 
 ## 🚀 How to Run the Project  
