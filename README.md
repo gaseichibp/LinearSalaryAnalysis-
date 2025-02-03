@@ -11,7 +11,11 @@ Although it is a simple model, it demonstrates fundamental **Machine Learning** 
 - Pandas  
 - NumPy  
 - Scikit-Learn  
-- Matplotlib  
+- Matplotlib
+
+![Matplotlib Graphics](salaryTrain.png)
+![Matplotlib Graphics](salaryTrain.png)
+
 
 ## 🚀 How to Run the Project  
 
